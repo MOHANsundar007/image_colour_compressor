@@ -34,7 +34,7 @@ Before running the project, ensure that you have the following installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/image_colour_compressor.git
+    git clone https://github.com/MOHANsundar007/image_colour_compressor.git
     cd image_colour_compressor
     ```
 
@@ -65,11 +65,3 @@ Before running the project, ensure that you have the following installed:
     - Choose the number of clusters (K).
     - View the original and compressed images on the web page.
     - Download the compressed image.
-
-
-## Contributing:
-If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Please make sure to follow the coding style and write tests for new features.
-
-## License:
-This project is open-source and available under the [MIT License](LICENSE).
-
