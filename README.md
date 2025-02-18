@@ -4,6 +4,10 @@ Image Colour Compression Using K-Means Clustering
 
 This project implements image compression using the K-Means clustering algorithm. The Flask-based web application allows users to upload an image, apply K-Means clustering to compress the image, and download the compressed version.
 
+output:
+![im1](https://github.com/user-attachments/assets/345d6180-c4e4-4ffa-94b1-88a3144b3716)
+![im2](https://github.com/user-attachments/assets/0649996d-0675-455a-876b-080ff79c6783)
+
 ## Features:
 - Upload an image and choose the number of clusters (K).
 - The image is compressed using the K-Means clustering algorithm.
